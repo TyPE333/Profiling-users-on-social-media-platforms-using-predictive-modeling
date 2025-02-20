@@ -1,5 +1,3 @@
-Here’s a clean and structured GitHub README for your **User Profiling in Social Media** project:
-
 ---
 
 # **User Profiling in Social Media Using Text, Images, and Relational Data**
